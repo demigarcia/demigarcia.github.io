@@ -9,5 +9,21 @@ redirect_from:
 
 ### 🚧 under construction...
 ---
+## Contact me
 
-email: datademi@pm.me
+Feel free to reach out for any inquiries, collaborations, or opportunities. I'd love to hear from you!
+
+
+- **Email:** [datademi@pm.me](mailto:datademi@pm.me)
+- **Phone:** [(123) 456-7890](tel:+1234567890)
+- **LinkedIn:** [linkedin.com/in/tbd](https://www.linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/demigarcia](https://github.com/demigarcia)
+
+
+
+
+
+
+
+### Privacy Statement
+*Your information will be kept confidential and will not be shared with third parties.*
