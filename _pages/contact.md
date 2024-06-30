@@ -7,7 +7,7 @@ redirect_from:
   - /contact
 ---
 
-🚧 under construction...
-======
+
+## 🚧 under construction...
 
 email: datademi@pm.me
