@@ -7,7 +7,8 @@ redirect_from:
   - /interests
 ---
 
-# Professional
+## Professional
+---
 
 - **Data Science and Analytics**
   - *Machine learning*
@@ -25,7 +26,8 @@ redirect_from:
 - **Continuous Learning and Development**
   - *Attending seminars, webinars, or online courses to stay current in the field.*
  
-# Personal
+## Personal
+---
 
 - **Problem-Solving & Critical Thinking**
   - *Doing puzzles, brainteasers, or strategy games that involve analytical and problem-solving skills.*
