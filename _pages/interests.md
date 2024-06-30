@@ -7,42 +7,36 @@ redirect_from:
   - /interests
 ---
 
-### 🚧 under construction...
+# Professional
 
+- **Data Science and Analytics**
+  - *Machine learning*
+  - *Artificial Intelligence*
+  - *Big Data*
+  - *Statistical Analysis*
+ 
+- **Visualization and Storytelling with Data**
+  - *A passion for creating compelling data visualizations and telling stories through data.*
 
-updating with description of personality and passions
+- **Software Engineering and Programming**
+  - *Programming languages, using tools like Python, R, SQL, etc.*
+  - *Software development and emerging tech trends.*
 
+- **Continuous Learning and Development**
+  - *Attending seminars, webinars, or online courses to stay current in the field.*
+ 
+# Personal
 
-**Data Science and Analytics**
+- **Problem-Solving & Critical Thinking**
+  - *Doing puzzles, brainteasers, or strategy games that involve analytical and problem-solving skills.*
 
-*Machine learning, artificial intelligence, big data, and statistical analysis. Using tools like Python, R, SQL, etc.*
+- **Hobbies & Other General Interests**
+  - *reading (currently reading How to Have Impossible Conversations by Peter Boghossian)*
+  - *cooking (tacos are my favorite)*
+  - *jiu jitsu (still a white belt but I have a few stripes)*
+  - *keeping up with current events (especially in politics and economics)*
+  - *learning about random topics (one day I decided to reseach multiple state department briefings to fact check various news publications)*
+  - *debating ideas (challenging perspectives while having a willingness to change one's mind to have beliefs based on evidence)*
+  - *teaching myself new skills (learned all the components and functions to build my first computer this year)*
+  - *building custom mechanical keyboards (expensive but fun! tactile switches for the win lol)*
 
-
-**Technology and Software Development**
-
-*Programming languages, software development, and emerging tech trends.*
-
-
-**Continuous Learning and Development**
-
-*Attending conferences, webinars, or online courses as a commitment to staying current in the field.*
-
-
-**Research and Academic Interests**
-
-*academic research or pursuing further education...*
-
-
-**Problem-Solving and Critical Thinking**
-
-*puzzles, brainteasers, or strategy games that involve analytical and problem-solving skills.*
-
-
-**Visualization and Storytelling with Data**
-
-*A passion for creating compelling data visualizations and telling stories through data.*
-
-
-**Hobbies and Personal Interests**
-
-*reading, cooking, jiu jitsu, keeping up with current events, debating ideas, learning about random topics, building custom keyboards.*
