@@ -7,7 +7,6 @@ redirect_from:
   - /contact
 ---
 
-
 ### 🚧 under construction...
 ---
 
