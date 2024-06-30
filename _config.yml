@@ -21,7 +21,7 @@ repository               : "demigarcia/demigarcia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pic.png"
   name             : "Demi Garcia"
   pronouns         : # example: "she/her"  
   bio              : "Business Data Analyst"
