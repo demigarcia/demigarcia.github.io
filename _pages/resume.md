@@ -9,24 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* MBA, Business Analytics concentration, University of Denver
+
+
+## Education
+
+* MBA, Data Analytics concentration, University of Denver
 * BS in Business Administration, Human Resources concentration, University of Colorado
 * PCEP™ Certified Entry-Level Python Programmer
 * Pursuing Certified Compensation Professional® CCP
 
 
-Relevant Coursework
-======
+## Relevant Coursework
+
 * Business Statistics
 * Business Databases
 * Data Warehousing
 * Python Programming
 * Predictive Analytics
 
-Skills
-======
+## Skills
+
 * Database Administration
 * Programming Languages:
   * SQL
@@ -44,8 +46,8 @@ Skills
 * Process Documentation
 * Equity Compliance
 
-Work experience
-======
+## Work experience
+
 
 ### Compensation Analyst
 University Corporation for Atmospheric Research  
@@ -66,14 +68,11 @@ University Corporation for Atmospheric Research
   * Led performance management, succession planning, and employee engagement initiatives
   * Conducted job analysis and compensation audit to evaluated and make recommendations to improve pay equity
   * Partnered with recruiting team and consulted with supervisors/directors on new hire offers and total compensation offerings
-  * Conducted audits to ensure compliance in areas such as job change policies and appropriate classifications
 
 ### Recruiter
 2013 - 2015
   * Industries: Social Science Research Non-profit, Scientific Research Non-profit (FFRDC)
-  * Consulted with organizations to help them build both on-site and remote workforces
-  * Ensured strategic alignment of resources with business objectives
+  * Managed full cycle recruiting for multi-state organizations
   * Organized implementation of HRIS platforms to improve processes and optimize workflows
   * Created analytical reports for department leadership to support data-driven decisions
-  * Managed full cycle recruiting for multi-state organizations
   * Researched salary survey reports and developed flat rate pay matrices to inform entry-level compensation decisions
