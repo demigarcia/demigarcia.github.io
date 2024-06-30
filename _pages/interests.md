@@ -7,7 +7,8 @@ redirect_from:
   - /interests
 ---
   
-    
+a peek at my personality and passions...
+
 ## Professional
 
 - **Data Science and Analytics**
