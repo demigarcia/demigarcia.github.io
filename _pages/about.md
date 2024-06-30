@@ -18,7 +18,7 @@ I enjoy problem solving and finding creative solutions to unusual issues. My abi
 
 My current work involves compensation analysis for a federally funded R&D center focused on atmospheric science.
 
-I'm looking for opportunities to build upon my skills in database administration, predictive analytics, and data visualization.
+Searching for opportunities to build upon my skills in database administration, predictive analytics, and data visualization.
 
 Contact
 ------
