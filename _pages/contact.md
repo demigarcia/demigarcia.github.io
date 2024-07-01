@@ -7,7 +7,6 @@ redirect_from:
   - /contact
 ---
 
-## Contact me
 
 Feel free to reach out for any inquiries, collaborations, or opportunities. I'd love to hear from you!
 
