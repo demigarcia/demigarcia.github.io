@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+---
   
 a peek at my personality and passions...
 
