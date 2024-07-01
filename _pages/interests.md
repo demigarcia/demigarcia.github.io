@@ -41,7 +41,7 @@ a peek at my personality and passions...
   - *cooking (tacos are my favorite)*
   - *jiu jitsu (still a white belt but I have a few stripes)*
   - *keeping up with current events (especially in politics and economics)*
-  - *learning about random topics (one day I decided to reseach multiple state department briefings to fact check various news publications)*
+  - *learning about random topics (one day I decided to research multiple state department briefings to fact check various news publications)*
   - *debating ideas (challenging perspectives while having a willingness to change one's mind to have beliefs based on evidence)*
   - *teaching myself new skills (learned all the components and functions to build my first computer this year)*
   - *building custom mechanical keyboards (expensive but fun! tactile switches for the win lol)*
