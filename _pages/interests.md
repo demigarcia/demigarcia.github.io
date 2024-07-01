@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /interests
 ---
+
+{% include base_path %}
   
 a peek at my personality and passions...
 
