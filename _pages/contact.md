@@ -15,4 +15,4 @@ Feel free to reach out for any inquiries, collaborations, or opportunities. I'd 
   
 📱 +1 720 815 6278  
   
-🖥️ [https://demigarcia.github.io](https://demigarcia.github.io)
+🖥️ [https://github.com/demigarcia](https://github.com/demigarcia)
