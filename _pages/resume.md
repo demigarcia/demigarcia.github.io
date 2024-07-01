@@ -12,67 +12,53 @@ redirect_from:
 ---
 
 ## Education
-
 * MBA, Data Analytics concentration, University of Denver
 * BS in Business Administration, Human Resources concentration, University of Colorado
 * PCEP™ Certified Entry-Level Python Programmer
-* Pursuing Certified Compensation Professional® CCP
 
-
-## Relevant Coursework
-
-* Business Statistics
-* Business Databases
-* Data Warehousing
-* Python Programming
-* Predictive Analytics
 
 ## Skills
 
-* Database Administration
-* Programming Languages:
-  * SQL
-  * Python
-  * R
-  * PowerShell
-  * Bash
-  * Ruby
-  * HTML
-  * SPSS
+### Technical Skills
+* Operating Systems: Windows, Windows Subsystem for Linux (WSL)
+* Programming Languages: SQL, Python, JavaScript (Node.js), Shell Scripting (Bash), Ruby
+* Markup Languages: Markdown, HTML
+* Business Databases: SQL Server
+* Data Warehousing
 * Quantitative & Statistical Analysis
-* Data Visualization
-* Research & Reporting
+* Predictive Analytics
+* Data Visualization: Matplotlib, Seaborn, PowerBI, SPSS
+
+### Soft Skills
+* Critical Thinking
+* Problem Solving
+* Communication & Collaboration
 * Project Management
-* Process Documentation
-* Equity Compliance
+
 
 ## Work experience
 
-
 ### Compensation Analyst
-University Corporation for Atmospheric Research  
-
+University Corporation for Atmospheric Research (Federally Funded R&D Center)  
 2021 - Present
-  * Industry: Scientific Research & Development (FFRDC)
-  * Audit job content for classification, create position descriptions, and recommend competitive salary ranges and offers through market research.
-  * Participate in review committees, conduct surveys, and present data-driven findings.
-  * Provide consultative support to leadership, document processes, and develop compensation workflows in HCM system, Workday.
-  * Produce compensation reports, research best practices, and maintain knowledge of legal compliance.
-  * Lead annual compensation cycles, such as promotion and merit projects, document requirements, perform system testing, and develop HR communications.
-  * Lead projects to improve compensation systems, collaborate with cross-funtional teams, manage timelines, and create training materials.
+  * Analyze employee and job data to ensure internal equity, with consideration of market analysis, and recommend compensation adjustments as needed.
+  * Conduct analysis of salary surveys, in addition to market trends, and recommend competitive compensation plans and incentives.
+  * Develop compensation reports and dashboards for managers and leadership, improve compensation workflows in HCM system (Workday).
+  * Research compensation best practices, maintain knowledge of legal compliance, provide consultative support to leadership.
+  * Lead projects to improve compensation systems, collaborate with cross-functional teams, manage process documentation, and create training materials.
 
 ### HR Business Partner
+Industries: Renewable Energy, Transportation. Manufacturing & Engineering, Software Development  
 2016 - 2020
-  * Industries: Renewable Energy, Transportation. Manufacturing & Engineering, Software Development
-  * Developed and implemented a HR strategy to lead integration across multiple acquisitions
-  * Led performance management, succession planning, and employee engagement initiatives
-  * Conducted job analysis and compensation audit to evaluated and make recommendations to improve pay equity
-  * Partnered with recruiting team and consulted with supervisors/directors on new hire offers and total compensation offerings
+  * Developed and implemented a HR strategy to lead integration across multiple acquisitions.
+  * Led performance management, succession planning, and employee engagement initiatives.
+  * Conducted job analysis and compensation audit to evaluated and make recommendations to improve pay equity.
+  * Partnered with recruiting team and consulted with supervisors/directors on new hire offers and total compensation offerings.
 
 ### Recruiter
+Industries: Social Science Research Non-profit, Scientific Research Non-profit (FFRDC)  
 2013 - 2015
-  * Industries: Social Science Research Non-profit, Scientific Research Non-profit (FFRDC)
-  * Managed full cycle recruiting for multi-state organizations
-  * Organized implementation of HRIS platforms to improve processes and optimize workflows
-  * Created analytical reports for department leadership to support data-driven decisions
-  * Researched salary survey reports and developed flat rate pay matrices to inform entry-level compensation decisions
+  * Managed full cycle recruiting for multi-state organizations.
+  * Organized implementation of HRIS platforms to improve processes and optimize workflows.
+  * Created analytical reports for department leadership to support data-driven decisions.
+  * Researched salary survey reports and developed flat rate pay matrices to inform entry-level compensation decisions.
