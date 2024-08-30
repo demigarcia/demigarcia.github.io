@@ -1,11 +1,11 @@
 ---
-permalink: /
+# permalink: /
 title: "Demi Garcia"
 excerpt: "About me"
 author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+  # - /about/
+  # - /about.html
 ---
 
 Data Analyst specializing in Compensation and Business Analytics, adept at leveraging data to drive informed business decisions.
