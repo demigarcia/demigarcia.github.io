@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Interests"
-permalink: /interests/
+# permalink: /interests/
 author_profile: false
-redirect_from:
-  - /interests
+# redirect_from:
+  # - /interests
 ---
 
 {% include base_path %}
