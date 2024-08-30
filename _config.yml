@@ -12,9 +12,9 @@ title                    : "Demi Garcia"
 title_separator          : "-"
 name                     : # &name "Your Name"
 description              : &description "personal description"
-url                      : #https://demigarcia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"" # the subpath of your site, e.g. "/blog"
-repository               : #"demigarcia/demigarcia.github.io"
+# url                      : #https://demigarcia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+# repository               : #"demigarcia/demigarcia.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : #"demigarcia/demigarcia.github.io"
 author:
   # Biographic information
   avatar           : "pic.png"
-  name             : "Demi Garcia"
+ # name             : "Demi Garcia"
   pronouns         : # example: "she/her"  
-  bio              : "Business Data Analyst"
-  location         : "Denver, CO"
+ # bio              : "Business Data Analyst"
+  # location         : "Denver, CO"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "datademi@email.com" 
+#  email            : "datademi@email.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "demigarcia"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
