@@ -1,17 +1,11 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /contact/
+# permalink: /contact/
 author_profile: false
-redirect_from:
-  - /contact
+# redirect_from:
+  # - /contact
 ---
 
 
-Feel free to reach out for any inquiries, collaborations, or opportunities. I'd love to hear from you!
 
-📧 [datademi@pm.me](mailto:datademi@pm.me)  
-  
-📱 +1 720 815 6278  
-  
-🖥️ [https://github.com/demigarcia](https://github.com/demigarcia)
